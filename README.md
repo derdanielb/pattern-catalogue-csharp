@@ -6,7 +6,7 @@ The purpose of this repository is for me to refreh my memory of common design pa
 ### Creational Design Patterns
 
 - [ ] Factory Method
-- [X] Abstract Factory
+- [X] [Abstract Factory](https://github.com/derdanielb/pattern-catalogue-csharp/tree/master/src/Pattern-Catalogue/Abstract-Factory)
 - [ ] Builder
 - [ ] Prototype
 - [ ] Singleton
