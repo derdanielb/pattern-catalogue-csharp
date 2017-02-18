@@ -43,8 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IChassis.cs" />
+    <Compile Include="ITire.cs" />
+    <Compile Include="IVehicleFactory.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RaceCarChassis.cs" />
+    <Compile Include="RaceCarFactory.cs" />
+    <Compile Include="RaceCarTire.cs" />
+    <Compile Include="TruckChassis.cs" />
+    <Compile Include="TruckFactory.cs" />
+    <Compile Include="TruckTire.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
