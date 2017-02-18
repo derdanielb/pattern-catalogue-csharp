@@ -5,9 +5,8 @@ The purpose of this repository is for me to refreh my memory of common design pa
 
 ### Creational Design Patterns
 
-- [ ] Simple Factory
 - [ ] Factory Method
-- [ ] Abstract Factory
+- [X] Abstract Factory
 - [ ] Builder
 - [ ] Prototype
 - [ ] Singleton
