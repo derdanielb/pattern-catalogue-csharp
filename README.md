@@ -1,4 +1,4 @@
-# pattern-catalogue-csharp
+# Pattern Catalogue C# #
 A collection of implementations of design patterns in C#
 
 The purpose of this repository is for me to refreh my memory of common design patterns. Implementing them in C# serves as practice for me. If you find any mistakes please create an issue.
