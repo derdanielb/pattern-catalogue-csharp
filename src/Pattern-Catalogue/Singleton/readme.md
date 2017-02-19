@@ -1,4 +1,4 @@
-# Singleton
+# Singleton Pattern
 
 Singletons are charecterized by the following aspects:
 - Single private constructor
