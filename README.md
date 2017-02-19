@@ -9,7 +9,7 @@ The purpose of this repository is for me to refreh my memory of common design pa
 - [X] [Abstract Factory](https://github.com/derdanielb/pattern-catalogue-csharp/tree/master/src/Pattern-Catalogue/Abstract-Factory)
 - [ ] Builder
 - [ ] Prototype
-- [ ] Singleton
+- [X] [Singleton](https://github.com/derdanielb/pattern-catalogue-csharp/tree/master/src/Pattern-Catalogue/Singleton)
 
 ### Structural Design Patterns
 - [ ] Adapter
