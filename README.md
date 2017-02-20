@@ -16,7 +16,8 @@ The purpose of this repository is for me to refreh my memory of common design pa
 - [ ] Bridge
 - [ ] Composite
 - [ ] Decorator
-- [ ] Facade
+- [X] [Facade](https://github.com/derdanielb/pattern-catalogue-csharp/tree/master/src/Pattern-Catalogue/Facade)
+- [ ] Bridge
 - [ ] Flyweight
 - [ ] Proxy
 
