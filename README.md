@@ -28,7 +28,7 @@ The purpose of this repository is for me to refreh my memory of common design pa
 - [ ] Iterator
 - [ ] Mediator
 - [ ] Memento
-- [ ] Observer
+- [X] [Observer](https://github.com/derdanielb/pattern-catalogue-csharp/tree/master/src/Pattern-Catalogue/Observer)
 - [ ] Visitor
 - [ ] Strategy
 - [ ] State
